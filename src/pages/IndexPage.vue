@@ -29,8 +29,9 @@ export default defineComponent({
 <style>
   #receitas {
     display: flex;
-    width: 100%;
+    width: 90%;
     flex-wrap: wrap;
+    margin: auto;
   }
 
   #receitas-card{
@@ -39,5 +40,6 @@ export default defineComponent({
     min-width: 20vw;
     min-height: 40vh;
     background-color: lightblue;
+    /* flex-grow: 1; */
   }
 </style>

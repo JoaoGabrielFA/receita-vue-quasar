@@ -37,7 +37,7 @@ const linksList = [
     title: 'Fazer Login',
     caption: 'Entre na sua conta!',
     icon: 'login',
-    link: 'https://quasar.dev'
+    link: '#/login'
   },
   // {
   //   title: 'Github',
