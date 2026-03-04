@@ -39,12 +39,12 @@ const linksList = [
     icon: 'login',
     link: 'https://quasar.dev'
   },
-  // {
-  //   title: 'Github',
-  //   caption: 'github.com/quasarframework',
-  //   icon: 'code',
-  //   link: 'https://github.com/quasarframework'
-  // },
+  {
+    title: 'Favoritos',
+    caption: 'Suas receitas favoritas!',
+    icon: 'star',
+    link: 'https://github.com/quasarframework'
+  },
   // {
   //   title: 'Discord Chat Channel',
   //   caption: 'chat.quasar.dev',
